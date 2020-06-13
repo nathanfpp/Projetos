@@ -46,5 +46,11 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Romano.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BackendSQL\BackendSQL.csproj">
+      <Project>{a7e7d74f-5d37-4e33-8caa-b24fbdcd02d8}</Project>
+      <Name>BackendSQL</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

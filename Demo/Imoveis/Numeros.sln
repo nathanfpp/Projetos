@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numeros", "Imoveis\Numeros.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Backend", "Backend\Backend.csproj", "{C7A6EE42-431A-4713-AAB4-12D3FEF515F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackendSQL", "BackendSQL\BackendSQL.csproj", "{A7E7D74F-5D37-4E33-8CAA-B24FBDCD02D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C7A6EE42-431A-4713-AAB4-12D3FEF515F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7A6EE42-431A-4713-AAB4-12D3FEF515F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7A6EE42-431A-4713-AAB4-12D3FEF515F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7E7D74F-5D37-4E33-8CAA-B24FBDCD02D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7E7D74F-5D37-4E33-8CAA-B24FBDCD02D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7E7D74F-5D37-4E33-8CAA-B24FBDCD02D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7E7D74F-5D37-4E33-8CAA-B24FBDCD02D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

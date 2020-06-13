@@ -11,8 +11,9 @@ namespace Numeros
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            Backend.Romano oRomano = new Backend.Romano();
-            oRomano.somarAlgarismos("I", "II");
+         /*   Backend.Romano oRomano = new Backend.Romano();
+            oRomano.valorAlgarismo = oRomano.somarAlgarismos("I", "II");
+            oRomano.Gravar(oRomano);*/
         }
     }
 }

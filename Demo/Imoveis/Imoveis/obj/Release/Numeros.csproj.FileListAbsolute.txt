@@ -74,3 +74,5 @@ C:\Users\Nathan Frois\Documents\ASP.NET\Demo\Imoveis\Imoveis\obj\Release\Numeros
 C:\Users\Nathan Frois\Documents\ASP.NET\Demo\Imoveis\Imoveis\obj\Release\Numeros.csproj.CopyComplete
 C:\Users\Nathan Frois\Documents\ASP.NET\Demo\Imoveis\Imoveis\obj\Release\Imoveis.dll
 C:\Users\Nathan Frois\Documents\ASP.NET\Demo\Imoveis\Imoveis\obj\Release\Imoveis.pdb
+C:\Users\Nathan Frois\Documents\ASP.NET\Demo\Imoveis\Imoveis\bin\BackendSQL.dll
+C:\Users\Nathan Frois\Documents\ASP.NET\Demo\Imoveis\Imoveis\bin\BackendSQL.pdb

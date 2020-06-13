@@ -1,6 +1,11 @@
 C:\Users\Nathan Frois\Documents\ASP.NET\Demo\Imoveis\Backend\bin\Release\Backend.dll
 C:\Users\Nathan Frois\Documents\ASP.NET\Demo\Imoveis\Backend\bin\Release\Backend.pdb
+C:\Users\Nathan Frois\Documents\ASP.NET\Demo\Imoveis\Backend\obj\Release\Backend.csprojAssemblyReference.cache
 C:\Users\Nathan Frois\Documents\ASP.NET\Demo\Imoveis\Backend\obj\Release\Backend.csproj.CoreCompileInputs.cache
 C:\Users\Nathan Frois\Documents\ASP.NET\Demo\Imoveis\Backend\obj\Release\Backend.dll
 C:\Users\Nathan Frois\Documents\ASP.NET\Demo\Imoveis\Backend\obj\Release\Backend.pdb
-C:\Users\Nathan Frois\Documents\ASP.NET\Demo\Imoveis\Backend\obj\Release\Backend.csprojAssemblyReference.cache
+C:\Users\Nathan Frois\Documents\ASP.NET\Demo\Imoveis\Backend\bin\Release\BancoDeDados.mdf
+C:\Users\Nathan Frois\Documents\ASP.NET\Demo\Imoveis\Backend\bin\Release\BancoDeDados_log.ldf
+C:\Users\Nathan Frois\Documents\ASP.NET\Demo\Imoveis\Backend\bin\Release\BackendSQL.dll
+C:\Users\Nathan Frois\Documents\ASP.NET\Demo\Imoveis\Backend\bin\Release\BackendSQL.pdb
+C:\Users\Nathan Frois\Documents\ASP.NET\Demo\Imoveis\Backend\obj\Release\Backend.csproj.CopyComplete

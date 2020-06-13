@@ -1,0 +1,8 @@
+C:\Users\Nathan Frois\Documents\ASP.NET\Demo\Imoveis\BackendSQL\bin\Release\BancoDeDados.mdf
+C:\Users\Nathan Frois\Documents\ASP.NET\Demo\Imoveis\BackendSQL\bin\Release\BancoDeDados_log.ldf
+C:\Users\Nathan Frois\Documents\ASP.NET\Demo\Imoveis\BackendSQL\bin\Release\BackendSQL.dll
+C:\Users\Nathan Frois\Documents\ASP.NET\Demo\Imoveis\BackendSQL\bin\Release\BackendSQL.pdb
+C:\Users\Nathan Frois\Documents\ASP.NET\Demo\Imoveis\BackendSQL\obj\Release\BackendSQL.csprojAssemblyReference.cache
+C:\Users\Nathan Frois\Documents\ASP.NET\Demo\Imoveis\BackendSQL\obj\Release\BackendSQL.csproj.CoreCompileInputs.cache
+C:\Users\Nathan Frois\Documents\ASP.NET\Demo\Imoveis\BackendSQL\obj\Release\BackendSQL.dll
+C:\Users\Nathan Frois\Documents\ASP.NET\Demo\Imoveis\BackendSQL\obj\Release\BackendSQL.pdb
